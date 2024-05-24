@@ -7,3 +7,13 @@ C/C++用户，JPOP新手，日语学习者，立志走遍县里所有乡镇的�
 [bilibili账户](https://space.bilibili.com/1870371885)
 
 [个人站点](https://xiacao0512.github.io/)
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=Lyrikp&count_private=true&show_icons=true&theme=graywhite&show_owner=true" />
+</a>
+  &emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrikp&theme=graywhite&layout=compact" />
+</a>
+</p>
